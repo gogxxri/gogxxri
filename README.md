@@ -1,11 +1,10 @@
 <div style="text-align: left; margin: 20px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b006b,100:6529d6&height=180&text=Gyuri's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    ![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=Gyuri's%20GitHub%20&fontSize=65&fontColor=FFFFFF)
 </div>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Front-end</h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    </div>
+    <br/><br/>
 </div>
 
 <div style="text-align: left;">
@@ -20,10 +19,19 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" style="display: inline-block; margin-right: 10px;">
     </div>
+    <br/>
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎨 Project </h2>
+    <div style="text-align: left; margin: 20px;">
+        <div>✔ Chee-Us [혼술하기 싫은 날, 함께 마실 동네 친구 찾기 웹서비스]</div>
+        <div>✔ 29Dongsung [여행 동반자 구인 웹 서비스]</div>
+    </div>
+</div>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🥰 It's me</h2>
     <br>
     <div style="text-align: left; margin: 20px;">
         <a href="https://velog.io/@rbfl7645/posts">
@@ -36,7 +44,7 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Certificate</h2>
     <div style="text-align: left; margin: 20px;">
         <div>✔ 정보처리기사 실기 (결과 발표 - 23.09.10)</div>
         <div>✔ SQL 개발자(SQLD) 24.06.21</div>
