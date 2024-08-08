@@ -1,5 +1,5 @@
 <div style="text-align: left; margin: 20px;">
-    ![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=Gyuri's%20GitHub%20&fontSize=65&fontColor=FFFFFF)
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b006b,100:6529d6&height=180&text=Gyuri's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </div>
 
 <div style="text-align: left;">
@@ -31,6 +31,15 @@
 </div>
 
 <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Certificate</h2>
+    <div style="text-align: left; margin: 20px;">
+        <div>✔ 정보처리기사 실기 (결과 발표 - 23.09.10)</div>
+        <div>✔ SQL 개발자(SQLD) 24.06.21</div>
+        <div>✔ 컴퓨터활용능력 2급 24.02.16</div>
+    </div>
+</div>
+
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🥰 It's me</h2>
     <br>
     <div style="text-align: left; margin: 20px;">
@@ -40,14 +49,5 @@
     </div>
     <br>
     <div style="text-align: left;">
-    </div>
-</div>
-
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Certificate</h2>
-    <div style="text-align: left; margin: 20px;">
-        <div>✔ 정보처리기사 실기 (결과 발표 - 23.09.10)</div>
-        <div>✔ SQL 개발자(SQLD) 24.06.21</div>
-        <div>✔ 컴퓨터활용능력 2급 24.02.16</div>
     </div>
 </div>
