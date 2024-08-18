@@ -33,7 +33,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Certificate</h2>
     <div style="text-align: left; margin: 20px;">
-        <div>✔ 정보처리기사 실기 (결과 발표 - 23.09.10)</div>
+        <div>✔ 정보처리기사 실기 (결과 발표 - 24.09.10)</div>
         <div>✔ SQL 개발자(SQLD) 24.06.21</div>
         <div>✔ 컴퓨터활용능력 2급 24.02.16</div>
     </div>
