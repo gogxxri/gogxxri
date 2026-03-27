@@ -22,13 +22,13 @@
     <br/>
 </div>
 
-<div style="text-align: left;">
+<!-- <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎨 Project </h2>
     <div style="text-align: left; margin: 20px;">
         <div>✔ Chee-Us [혼술하기 싫은 날, 함께 마실 동네 친구 찾기 웹서비스]</div>
         <div>✔ 29Dongsung [여행 동반자 구인 웹 서비스]</div>
     </div>
-</div>
+</div> -->
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Certificate</h2>
